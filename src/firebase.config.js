@@ -8,7 +8,7 @@ import {getFirestore} from "firebase/firestore"
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDm2uyAd0Anmb6gC-Xf9sVlQ2PuvztW02Y",
+  apiKey: "",
   authDomain: "house-marketplace-app-34c07.firebaseapp.com",
   projectId: "house-marketplace-app-34c07",
   storageBucket: "house-marketplace-app-34c07.appspot.com",
